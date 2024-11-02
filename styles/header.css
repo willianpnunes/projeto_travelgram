@@ -1,7 +1,6 @@
 header {
     padding-block: 32px;
-    font: var(--text-md);
-
+        font: var(--text-md);
 }
 
 header .container {
@@ -24,8 +23,6 @@ header .container {
     color: var(--text-color-primary);
     margin-bottom:8px;
 }
-
-
 
 #info {
     list-style: none;
